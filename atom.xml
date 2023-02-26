@@ -178,10 +178,10 @@
     <link href="https://littleffan.github.io/posts/e2df6c63.html"/>
     <id>https://littleffan.github.io/posts/e2df6c63.html</id>
     <published>2023-01-12T08:37:00.000Z</published>
-    <updated>2023-02-26T06:56:52.830Z</updated>
+    <updated>2023-02-26T08:31:21.544Z</updated>
     
     
-    <summary type="html">&lt;p&gt;我在安装hexo的过程中一共参考了以下一些博主的文章，通过他们让我成功的用上了hexo，非常感谢他们。在此贴一下链接，供有需要的朋友们参考。&lt;/p&gt;
+    <summary type="html">&lt;h1 id=&quot;初次安装Hexo&quot;&gt;&lt;a href=&quot;#初次安装Hexo&quot; class=&quot;headerlink&quot; title=&quot;初次安装Hexo&quot;&gt;&lt;/a&gt;初次安装Hexo&lt;/h1&gt;&lt;p&gt;我在安装hexo的过程中一共参考了以下一些博主的文章，通过他们让我成功的用上了hexo，非常感谢他们。在此贴一下链接，供有需要的朋友们参考。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/yaorongke/article/details/119089190&quot;&gt;GitHub Pages + Hexo搭建个人博客网站，史上最全教程&lt;/a&gt;，&lt;a href=&quot;https://blog.csdn.net/yaorongke?type=blog&quot;&gt;作者：淡淡的说非&lt;/a&gt;。&lt;br&gt;本篇主要包括，准备工作（github、Git、NodeJS）、创建仓库、安装Hexo、更换主题、创建文章、个性化页面设置、添加阅读量统计、添加评论功能、发布到GitHub Pages、发布到自己服务器。&lt;/p&gt;</summary>
     
