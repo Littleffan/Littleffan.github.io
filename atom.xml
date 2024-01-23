@@ -6,7 +6,7 @@
   <link href="https://littleffan.github.io/atom.xml" rel="self"/>
   
   <link href="https://littleffan.github.io/"/>
-  <updated>2024-01-22T15:09:19.969Z</updated>
+  <updated>2024-01-23T04:34:00.454Z</updated>
   <id>https://littleffan.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>日记20240122</title>
+    <title>20240123日记</title>
+    <link href="https://littleffan.github.io/posts/769b70c9.html"/>
+    <id>https://littleffan.github.io/posts/769b70c9.html</id>
+    <published>2024-01-23T04:17:19.000Z</published>
+    <updated>2024-01-23T04:34:00.454Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;2024年1月23日，星期二，小雨&lt;/p&gt;
+&lt;p&gt;昨天刚说到下雨，今早就下起了雨。早晨去阳台拿袜子没带眼镜，模糊地看见对面楼顶潮乎乎一片，心里想应该不会是下雨，可能是雾水吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="日记" scheme="https://littleffan.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日记" scheme="https://littleffan.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20240122日记</title>
     <link href="https://littleffan.github.io/posts/4f22977f.html"/>
     <id>https://littleffan.github.io/posts/4f22977f.html</id>
     <published>2024-01-22T13:51:50.000Z</published>
-    <updated>2024-01-22T15:09:19.969Z</updated>
+    <updated>2024-01-23T04:16:45.868Z</updated>
     
     
     <summary type="html">&lt;p&gt;2024年1月22日，星期一，晴&lt;/p&gt;
@@ -61,10 +81,10 @@
     <link href="https://littleffan.github.io/posts/e5a6bf86.html"/>
     <id>https://littleffan.github.io/posts/e5a6bf86.html</id>
     <published>2024-01-16T16:00:00.000Z</published>
-    <updated>2024-01-22T02:53:34.383Z</updated>
+    <updated>2024-01-23T04:35:21.496Z</updated>
     
     
-    <summary type="html">&lt;p&gt;我有很多的欲望&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;我有很多的欲望&lt;/strong&gt;&lt;/p&gt;</summary>
     
     
     
@@ -199,17 +219,17 @@
     <link href="https://littleffan.github.io/posts/e2df6c63.html"/>
     <id>https://littleffan.github.io/posts/e2df6c63.html</id>
     <published>2023-01-12T08:37:00.000Z</published>
-    <updated>2024-01-18T09:21:18.210Z</updated>
+    <updated>2024-01-23T04:41:32.239Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;初次安装Hexo&quot;&gt;&lt;a href=&quot;#初次安装Hexo&quot; class=&quot;headerlink&quot; title=&quot;初次安装Hexo&quot;&gt;&lt;/a&gt;初次安装Hexo&lt;/h1&gt;&lt;p&gt;我在安装hexo的过程中一共参考了以下一些博主的文章，通过他们让我成功的用上了hexo，非常感谢他们。在此贴一下链接，供有需要的朋友们参考。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/yaorongke/article/details/119089190&quot;&gt;GitHub Pages + Hexo搭建个人博客网站，史上最全教程&lt;/a&gt;，&lt;a href=&quot;https://blog.csdn.net/yaorongke?type=blog&quot;&gt;作者：淡淡的说非&lt;/a&gt;。&lt;br&gt;本篇主要包括，准备工作（github、Git、NodeJS）、创建仓库、安装Hexo、更换主题、创建文章、个性化页面设置、添加阅读量统计、添加评论功能、发布到GitHub Pages、发布到自己服务器。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;初次安装Hexo&quot;&gt;&lt;a href=&quot;#初次安装Hexo&quot; class=&quot;headerlink&quot; title=&quot;初次安装Hexo&quot;&gt;&lt;/a&gt;初次安装Hexo&lt;/h2&gt;&lt;p&gt;我在安装hexo的过程中一共参考了以下一些博主的文章，通过他们让我成功的用上了hexo，非常感谢他们。在此贴一下链接，供有需要的朋友们参考。&lt;/p&gt;</summary>
     
     
     
-    <category term="博客" scheme="https://littleffan.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客搭建" scheme="https://littleffan.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
+    
+    <category term="Hexo" scheme="https://littleffan.github.io/tags/Hexo/"/>
     
   </entry>
   
@@ -218,10 +238,11 @@
     <link href="https://littleffan.github.io/posts/e5002491.html"/>
     <id>https://littleffan.github.io/posts/e5002491.html</id>
     <published>2023-01-12T06:06:38.000Z</published>
-    <updated>2023-02-27T13:37:46.251Z</updated>
+    <updated>2024-01-23T04:44:08.461Z</updated>
     
     
-    <summary type="html">&lt;p&gt;一直有着写东西的念头，间歇性这种念头十分强烈。我想记录生活中发生的引起心情波动的事情，想记录工作中或与人相处中引发的思考，想记录从工作或书本或其他途径习得的知识并在此基础上总结构建自身的知识体系。我认为，我之所以是我，基于过去的经历以及经历演化为的意识。</summary>
+    <summary type="html">&lt;p&gt;一直有着写东西的念头，间歇性这种念头十分强烈。我想记录生活中发生的引起心情波动的事情，想记录工作中或与人相处中引发的思考，想记录从工作或书本或其他途径习得的知识并在此基础上总结构建自身的知识体系。&lt;/p&gt;
+&lt;p&gt;我认为，我之所以是我，基于过去的经历以及经历演化为的意识。</summary>
     
     
     
@@ -237,12 +258,10 @@
     <link href="https://littleffan.github.io/posts/a4c1e001.html"/>
     <id>https://littleffan.github.io/posts/a4c1e001.html</id>
     <published>2023-01-12T05:59:25.000Z</published>
-    <updated>2023-02-27T13:37:46.296Z</updated>
+    <updated>2024-01-23T04:45:11.415Z</updated>
     
     
-    <summary type="html">&lt;p&gt;自从2021年初入职新工作，担任小小的团队管理者之后，我对于工作的看法以及个人情绪上的波动经历了三个阶段。我想记录一下，因为它极大的影响着我的生活和身体健康。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;热情充沛、全力以赴、充满希望&lt;br&gt;2020年在思索跳槽之际，之前的领导从外企镀金结束，希望能够拉我去他的创业公司。权衡再三，我认为这是一个非常好的机会。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;自从2021年初入职新工作，担任小小的团队管理者之后，我对于工作的看法以及个人情绪上的波动经历了三个阶段。我想记录一下，因为它极大的影响着我的生活和身体健康。&lt;/p&gt;</summary>
     
     
     
