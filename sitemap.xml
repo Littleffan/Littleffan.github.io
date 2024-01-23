@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://littleffan.github.io/posts/769b70c9.html</loc>
+    
+    <lastmod>2024-01-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://littleffan.github.io/posts/a4c1e001.html</loc>
     
     <lastmod>2024-01-23</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://littleffan.github.io/posts/e5a6bf86.html</loc>
-    
-    <lastmod>2024-01-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://littleffan.github.io/posts/769b70c9.html</loc>
     
     <lastmod>2024-01-23</lastmod>
     
@@ -173,14 +173,14 @@
 
   
   <url>
-    <loc>https://littleffan.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
+    <loc>https://littleffan.github.io/tags/Hexo/</loc>
     <lastmod>2024-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://littleffan.github.io/tags/Hexo/</loc>
+    <loc>https://littleffan.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
     <lastmod>2024-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -194,14 +194,14 @@
   </url>
   
   <url>
-    <loc>https://littleffan.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
+    <loc>https://littleffan.github.io/tags/%E6%8B%8D%E7%85%A7/</loc>
     <lastmod>2024-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://littleffan.github.io/tags/%E6%8B%8D%E7%85%A7/</loc>
+    <loc>https://littleffan.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2024-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -210,14 +210,14 @@
 
   
   <url>
-    <loc>https://littleffan.github.io/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <loc>https://littleffan.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2024-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://littleffan.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://littleffan.github.io/categories/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2024-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
