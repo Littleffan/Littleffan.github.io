@@ -6,7 +6,7 @@
   <link href="https://littleffan.github.io/atom.xml" rel="self"/>
   
   <link href="https://littleffan.github.io/"/>
-  <updated>2024-01-23T14:39:26.692Z</updated>
+  <updated>2024-01-24T14:50:40.705Z</updated>
   <id>https://littleffan.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>20240124日记</title>
+    <link href="https://littleffan.github.io/posts/b33c4e47.html"/>
+    <id>https://littleffan.github.io/posts/b33c4e47.html</id>
+    <published>2024-01-24T14:33:45.000Z</published>
+    <updated>2024-01-24T14:50:40.705Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;2024年1月24日，星期三，晴&lt;/p&gt;
+&lt;p&gt;虽然昨晚睡得晚，早上还是7:10闹钟响的时候就起来把昨晚洗好的糯米、黄豆和桂圆放进破壁机了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="日记" scheme="https://littleffan.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日记" scheme="https://littleffan.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>20240123日记</title>
     <link href="https://littleffan.github.io/posts/769b70c9.html"/>
     <id>https://littleffan.github.io/posts/769b70c9.html</id>
     <published>2024-01-23T04:17:19.000Z</published>
-    <updated>2024-01-23T14:39:26.692Z</updated>
+    <updated>2024-01-24T14:49:48.025Z</updated>
     
     
     <summary type="html">&lt;p&gt;2024年1月23日，星期二，小雨&lt;/p&gt;
@@ -77,14 +97,14 @@
   </entry>
   
   <entry>
-    <title>工作相关</title>
-    <link href="https://littleffan.github.io/posts/5e87d0e6.html"/>
-    <id>https://littleffan.github.io/posts/5e87d0e6.html</id>
+    <title>关于欲望</title>
+    <link href="https://littleffan.github.io/posts/e5a6bf86.html"/>
+    <id>https://littleffan.github.io/posts/e5a6bf86.html</id>
     <published>2024-01-16T16:00:00.000Z</published>
-    <updated>2024-01-22T02:53:34.381Z</updated>
+    <updated>2024-01-23T04:35:21.496Z</updated>
     
     
-    <summary type="html">&lt;p&gt;常常遇到的情况是：1、繁琐的流程，过于程式化，没有变通，无法创新。2、制度不完善，员工不知道该怎么做。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;我有很多的欲望&lt;/strong&gt;&lt;/p&gt;</summary>
     
     
     
@@ -96,14 +116,14 @@
   </entry>
   
   <entry>
-    <title>关于欲望</title>
-    <link href="https://littleffan.github.io/posts/e5a6bf86.html"/>
-    <id>https://littleffan.github.io/posts/e5a6bf86.html</id>
+    <title>工作相关</title>
+    <link href="https://littleffan.github.io/posts/5e87d0e6.html"/>
+    <id>https://littleffan.github.io/posts/5e87d0e6.html</id>
     <published>2024-01-16T16:00:00.000Z</published>
-    <updated>2024-01-23T04:35:21.496Z</updated>
+    <updated>2024-01-22T02:53:34.381Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;strong&gt;我有很多的欲望&lt;/strong&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;常常遇到的情况是：1、繁琐的流程，过于程式化，没有变通，无法创新。2、制度不完善，员工不知道该怎么做。&lt;/p&gt;</summary>
     
     
     
