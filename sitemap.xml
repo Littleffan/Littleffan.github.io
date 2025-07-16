@@ -56,27 +56,9 @@
   </url>
   
   <url>
-    <loc>https://littleffan.github.io/posts/5e87d0e6.html</loc>
-    
-    <lastmod>2024-01-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://littleffan.github.io/posts/d23d1fde.html</loc>
     
     <lastmod>2024-01-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://littleffan.github.io/posts/a4c1e001.html</loc>
-    
-    <lastmod>2024-01-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -176,14 +158,14 @@
   </url>
   
   <url>
-    <loc>https://littleffan.github.io/tags/%E6%8B%8D%E7%85%A7/</loc>
+    <loc>https://littleffan.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2025-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://littleffan.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
+    <loc>https://littleffan.github.io/tags/%E6%8B%8D%E7%85%A7/</loc>
     <lastmod>2025-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
