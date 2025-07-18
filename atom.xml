@@ -6,7 +6,7 @@
   <link href="https://littleffan.github.io/atom.xml" rel="self"/>
   
   <link href="https://littleffan.github.io/"/>
-  <updated>2024-03-18T02:26:45.740Z</updated>
+  <updated>2025-07-18T02:43:27.083Z</updated>
   <id>https://littleffan.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>整理一些同样使用Hexo的博客链接</title>
+    <link href="https://littleffan.github.io/posts/a72a1047.html"/>
+    <id>https://littleffan.github.io/posts/a72a1047.html</id>
+    <published>2025-07-18T02:43:27.000Z</published>
+    <updated>2025-07-18T02:43:27.083Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://alan.org.cn/&quot;&gt;Alan | 代码,日常,人生 | alan.org.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://yuanyueyao.github.io/&quot;&gt;Yyy’s</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://littleffan.github.io/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://littleffan.github.io/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>2024年日记-3月</title>
@@ -159,7 +185,7 @@
     <link href="https://littleffan.github.io/posts/e2df6c63.html"/>
     <id>https://littleffan.github.io/posts/e2df6c63.html</id>
     <published>2023-01-12T08:37:00.000Z</published>
-    <updated>2024-01-23T04:41:32.239Z</updated>
+    <updated>2025-07-18T02:35:16.304Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;初次安装Hexo&quot;&gt;&lt;a href=&quot;#初次安装Hexo&quot; class=&quot;headerlink&quot; title=&quot;初次安装Hexo&quot;&gt;&lt;/a&gt;初次安装Hexo&lt;/h2&gt;&lt;p&gt;我在安装hexo的过程中一共参考了以下一些博主的文章，通过他们让我成功的用上了hexo，非常感谢他们。在此贴一下链接，供有需要的朋友们参考。&lt;/p&gt;</summary>
