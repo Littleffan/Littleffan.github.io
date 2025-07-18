@@ -129,7 +129,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">10</span>
+          <span class="site-state-item-count">11</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -181,6 +181,103 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://littleffan.github.io/posts/906bccf4.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="Littleffan">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Littleffan's Blog">
+      <meta itemprop="description" content="没有什么文采也没有什么思想，只是记录生活中的鸡毛蒜皮，尝试理理脉络">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="undefined | Littleffan's Blog">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/posts/906bccf4.html" class="post-title-link" itemprop="url">利用Typora和PicGo和阿里云OSS搭建博客图床</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2025-07-18 11:14:37" itemprop="dateCreated datePublished" datetime="2025-07-18T11:14:37+08:00">2025-07-18</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/Hexo/" itemprop="url" rel="index"><span itemprop="name">Hexo</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>我通常使用Typora来进行博客写作，但是图片是以“外链”的形式存在的。如果Typora里面插入的图片的源文件被移动或者删除了或者博客发布了，博客里面对应的图片也无法显示出来（因为这个图片只是一个你硬盘里面的文件路径）。</p>
+<p>在我们往typora里插入图片的时候，PicGO会自动上传图片到图床，并返回一个图片的链接。即便是本地的那张图片移动or删除，也不会影响图床里的这张图片markdown本地文件里面的图片也就不会失效了！</p>
+<p>具体详细步骤参考<a href="%5BTypora+PicGo+%E9%98%BF%E9%87%8C%E4%BA%91OSS%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A%EF%BC%88%E8%B6%85%E8%AF%A6%E7%BB%86%EF%BC%89-CSDN%E5%8D%9A%E5%AE%A2%5D(https://blog.csdn.net/muxuen/article/details/122441469)">Typora+PicGo+阿里云OSS搭建博客图床（超详细），作者：慕雪华年</a></p>
+<h2 id="1-安装Typora和-PicGo-Releases-·-Molunerfinn-x2F-PicGo"><a href="#1-安装Typora和-PicGo-Releases-·-Molunerfinn-x2F-PicGo" class="headerlink" title="1.安装Typora和[PicGo](Releases · Molunerfinn&#x2F;PicGo)"></a>1.安装Typora和[PicGo](<a target="_blank" rel="noopener" href="https://github.com/Molunerfinn/PicGo/releases">Releases · Molunerfinn&#x2F;PicGo</a>)</h2><h2 id="2-购买和配置阿里云OSS"><a href="#2-购买和配置阿里云OSS" class="headerlink" title="2.购买和配置阿里云OSS"></a>2.购买和配置阿里云OSS</h2><p>创建Bucket，Bucket名字不能有大写字母；服务器就近选择；图床选择标准存储；读写权限公共读；同城冗余存储选择关闭；版本控制选择关闭。</p>
+<p>找到Bucket-概览-访问域名下的地域节点；</p>
+<p>找到账户资料里的AccessKey进去后创建一个AccessKey，在弹出的界面里，记住你的accessKeyId和accessKeySecret；</p>
+<h2 id="3-配置Picgo"><a href="#3-配置Picgo" class="headerlink" title="3.配置Picgo"></a>3.配置Picgo</h2><p>在图床设置里面选择阿里云OSS，依照以下步骤填写信息</p>
+<p>设定Keyld：填写刚刚获得的AccessKeyID</p>
+<p>设定KeySecret：填写AccessKeyIDSecret</p>
+<p>设定储存空间名：填写bucket名称这里填写的是bucket名称，不是浏览器里的域名</p>
+<p>确认存储区域：填写你的地域节点，注意复制的格式</p>
+<p>指定存储路径：其实就是自定义一个文件夹的名字，以&#x2F;结尾它会自动在你的bucket里面创建一个文件夹，并把图片上传进去.</p>
+<p>弄完之后，记得“确定”，并点击“设置为默认图床”！</p>
+<p>在Picgo设置里打开时间戳重命名和上传后自动复制URL</p>
+<h2 id="4-配置Typora"><a href="#4-配置Typora" class="headerlink" title="4.配置Typora"></a>4.配置Typora</h2><p>进入typora主界面，点击左上角的“文件-偏好设置”</p>
+<p>选择图像</p>
+<p>插入图片时上传图片</p>
+<p>下面的选项全勾上【更新22.03.05: 第二个网络位置的图片可以不勾，避免已经上传到图床的图片重复上传】</p>
+<p>上传服务选择PicGo(app)</p>
+<p>PicGo路径：找到picgo的安装路径不是安装包的路径！！！！</p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
     <link itemprop="mainEntityOfPage" href="https://littleffan.github.io/posts/a72a1047.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -209,8 +306,9 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
+      
 
-      <time title="创建时间：2025-07-18 10:43:27" itemprop="dateCreated datePublished" datetime="2025-07-18T10:43:27+08:00">2025-07-18</time>
+      <time title="创建时间：2025-07-18 10:43:27 / 修改时间：10:43:36" itemprop="dateCreated datePublished" datetime="2025-07-18T10:43:27+08:00">2025-07-18</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -988,99 +1086,9 @@
 
 
 
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://littleffan.github.io/posts/e5002491.html">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.jpg">
-      <meta itemprop="name" content="Littleffan">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Littleffan's Blog">
-      <meta itemprop="description" content="没有什么文采也没有什么思想，只是记录生活中的鸡毛蒜皮，尝试理理脉络">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="undefined | Littleffan's Blog">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/posts/e5002491.html" class="post-title-link" itemprop="url">我想写博客的原因</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">发表于</span>
-
-      <time title="创建时间：2023-01-12 14:06:38" itemprop="dateCreated datePublished" datetime="2023-01-12T14:06:38+08:00">2023-01-12</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-01-23 12:44:08" itemprop="dateModified" datetime="2024-01-23T12:44:08+08:00">2024-01-23</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-folder"></i>
-      </span>
-      <span class="post-meta-item-text">分类于</span>
-        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/%E6%97%A5%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">日记</span></a>
-        </span>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>一直有着写东西的念头，间歇性这种念头十分强烈。我想记录生活中发生的引起心情波动的事情，想记录工作中或与人相处中引发的思考，想记录从工作或书本或其他途径习得的知识并在此基础上总结构建自身的知识体系。</p>
-<p>我认为，我之所以是我，基于过去的经历以及经历演化为的意识。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/posts/e5002491.html#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
+  <nav class="pagination">
+    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="extend next" rel="next" title="下一页" aria-label="下一页" href="/page/2/"><i class="fa fa-angle-right"></i></a>
+  </nav>
 
 </div>
   </main>

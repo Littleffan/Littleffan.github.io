@@ -6,7 +6,7 @@
   <link href="https://littleffan.github.io/atom.xml" rel="self"/>
   
   <link href="https://littleffan.github.io/"/>
-  <updated>2025-07-18T02:43:27.083Z</updated>
+  <updated>2025-07-18T03:14:37.544Z</updated>
   <id>https://littleffan.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>利用Typora和PicGo和阿里云OSS搭建博客图床</title>
+    <link href="https://littleffan.github.io/posts/906bccf4.html"/>
+    <id>https://littleffan.github.io/posts/906bccf4.html</id>
+    <published>2025-07-18T03:14:37.000Z</published>
+    <updated>2025-07-18T03:14:37.544Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我通常使用Typora来进行博客写作，但是图片是以“外链”的形式存在的。如果Typora里面插入的图片的源文件被移动或者删除了或者博客发布了，博客里面对应的图片也无法显示出来（因为这个图片只是一个你硬盘里面的文件路径）。&lt;/p&gt;
+&lt;p&gt;在我们往typora里插入图片的时候，</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://littleffan.github.io/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://littleffan.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>整理一些同样使用Hexo的博客链接</title>
     <link href="https://littleffan.github.io/posts/a72a1047.html"/>
     <id>https://littleffan.github.io/posts/a72a1047.html</id>
     <published>2025-07-18T02:43:27.000Z</published>
-    <updated>2025-07-18T02:43:27.083Z</updated>
+    <updated>2025-07-18T02:43:36.396Z</updated>
     
     
       
