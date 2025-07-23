@@ -6,7 +6,7 @@
   <link href="https://littleffan.github.io/atom.xml" rel="self"/>
   
   <link href="https://littleffan.github.io/"/>
-  <updated>2025-07-18T03:14:37.544Z</updated>
+  <updated>2025-07-23T10:02:12.804Z</updated>
   <id>https://littleffan.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>对象不在的这一周</title>
+    <link href="https://littleffan.github.io/posts/2c731bb.html"/>
+    <id>https://littleffan.github.io/posts/2c731bb.html</id>
+    <published>2025-07-23T10:02:12.000Z</published>
+    <updated>2025-07-23T10:02:12.804Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;ONE&quot;&gt;&lt;a href=&quot;#ONE&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="日记" scheme="https://littleffan.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="碎碎念" scheme="https://littleffan.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
     <title>利用Typora和PicGo和阿里云OSS搭建博客图床</title>
     <link href="https://littleffan.github.io/posts/906bccf4.html"/>
     <id>https://littleffan.github.io/posts/906bccf4.html</id>
     <published>2025-07-18T03:14:37.000Z</published>
-    <updated>2025-07-18T03:14:37.544Z</updated>
+    <updated>2025-07-18T03:14:52.173Z</updated>
     
     
       
@@ -47,15 +72,16 @@
     <link href="https://littleffan.github.io/posts/a72a1047.html"/>
     <id>https://littleffan.github.io/posts/a72a1047.html</id>
     <published>2025-07-18T02:43:27.000Z</published>
-    <updated>2025-07-18T02:43:36.396Z</updated>
+    <updated>2025-07-18T03:36:52.360Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://alan.org.cn/&quot;&gt;Alan | 代码,日常,人生 | alan.org.cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://yuanyueyao.github.io/&quot;&gt;Yyy’s</summary>
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://yuanyueyao.github.io/&quot;&gt;Yyy’s blogs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://shen-baise.github.io/&quot;&gt;深白色的赛博产房&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
         
       
     
