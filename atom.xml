@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Littleffan&#39;s Blog</title>
+  <title>懒不懒Blog</title>
   <icon>https://littleffan.github.io/icon.png</icon>
   <subtitle>尝试记录 尝试思考</subtitle>
   <link href="https://littleffan.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://littleffan.github.io/</id>
   
   <author>
-    <name>Littleffan</name>
+    <name>Lan</name>
     
   </author>
   
